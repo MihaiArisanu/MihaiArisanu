@@ -11,4 +11,4 @@ I like to learn from building real project
 
 **Offline:** On the basketball court or lifting weights
 
-Feel free to explore my repositories or reach out me on Linkedin if you want to chat [LinkedIn](www.linkedin.com/in/mihaiarisanu)
+Feel free to explore my repositories or reach out me on Linkedin if you want to chat (https://www.linkedin.com/in/mihaiarisanu/)
