@@ -6,7 +6,7 @@ I like to learn from building real project
 ### Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,linux,py" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,go,linux" alt="Languages and Tools" />
 </p>
 
 **Offline:** On the basketball court or lifting weights
