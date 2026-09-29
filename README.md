@@ -1,5 +1,5 @@
 ### Hi, I'm Mihai 👋
-** Computer Engineer Student **
+*** Computer Engineer Student ***
 
 I like to learn from building real project
 
